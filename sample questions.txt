@@ -1,0 +1,51 @@
+Rajasthan (dataset/Rajasthan.txt)
+Sample Questions:
+
+Where were the Marathas from?
+
+What is the most populous city in the Thar Desert?
+
+What is the largest city for polyster blouse pieces in Rajasthan?
+
+
+
+Anthropology (dataset/Anthropology.txt)
+Sample Questions:
+
+What is anthropology a study of?
+
+How many educational institutions had some curriculum in anthropology by 1898?
+
+Where did early anthropology originate?
+
+Why type of anthropology is the study of social organization a central focus of?
+
+When was anthropology used as a term for comparative anatomy?
+
+
+
+Mammal (dataset/Mammal.txt)
+Sample Questions:
+
+About how small is the average bumble bee bat?
+
+How many mammals were known to exist up to 2006?
+
+Which early mammalian ancestor produced non-mammalian Dimetroden?
+
+Who wrote the "Principles of Classification and a Classification of Mammals?
+
+
+
+Modern History (dataset/Modern_history.txt)
+Sample Questions:
+
+Where did the United States support dictatorships in the 1970?
+
+How many people watched the Apollo 11 landing?
+
+When did the attack on Pearl Harbor occur?
+
+Who did Imperial Japan sign a Tripartite pact with?
+
+What institution was meant to bring stability?
